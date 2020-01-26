@@ -1,0 +1,3 @@
+﻿  소스.cpp
+c:\users\sangh\source\repos\project8\project8\소스.cpp(85): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project8.vcxproj -> C:\Users\sangh\source\repos\Project8\Debug\Project8.exe
